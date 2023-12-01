@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Chauhan Shyam</h1>
-<h3 align="center">A Cyber Security researcher from Gujarat,India</h3>
+### ME
+```python
+Name = "Shyam Chauhan"
+status = "pursuing B.E. in information texhnology"
+
+```
+#talks about
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=OCR+A&size=25&duration=3000&pause=1000&random=false&width=435&lines=Cyber+Security;Penetration+testing;Linux;OSINT;Networking;Python" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyam-chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="shyam-chauhan" /> </p>
 
@@ -7,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shyam-chauhan/](https://github.com/shyam-chauhan/) <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=OCR+A&size=25&duration=3000&pause=1000&random=false&width=435&lines=Cyber+Security;Penetration+testing;Linux;OSINT;Networking;Python" alt="Typing SVG" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chauhan-shyam009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chauhan-shyam009" height="30" width="40" /></a>
