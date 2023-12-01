@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chauhan Shyam</h1>
-<h3 align="center">A Cyber Security researcher from Gujarat,India</h3>
+<h3 align="center">A Cyber Security researcher from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyam-chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="shyam-chauhan" /> </p>
 
@@ -18,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shyam-chauhan&show_icons=true&locale=en&layout=compact" alt="shyam-chauhan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyam-chauhan&show_icons=true&locale=en" alt="shyam-chauhan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-chauhan&" alt="shyam-chauhan" /></p>
