@@ -1,8 +1,7 @@
 ## ME
 ```python
 Name = "Shyam Chauhan"
-status = "pursuing B.E. in information texhnology"
-
+Status = "pursuing B.E. in information texhnology"
 ```
 
 ### talks about <br>
@@ -18,6 +17,9 @@ status = "pursuing B.E. in information texhnology"
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chauhan-shyam009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chauhan-shyam009" height="30" width="40" /></a>
+<a href="https://t.me/chauhan_shyam">
+    <img align="left" alt="Shyam chauhan Telegram" width="34px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
