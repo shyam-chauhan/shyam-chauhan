@@ -1,7 +1,7 @@
 ## ME
 ```python
 Name = "Shyam Chauhan"
-Status = "pursuing B.E. in information texhnology"
+Status = "pursuing B.E. in information technology"
 ```
 
 ### talks about <br>
