@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning **OSINT,VAPT,REGEX,Digital Forensics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shyam-chauhan/](https://github.com/shyam-chauhan/)
+- 👨‍💻 All of my projects are available at [https://github.com/shyam-chauhan/](https://github.com/shyam-chauhan/) <br>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=OCR+A&size=25&duration=3000&pause=1000&random=false&width=435&lines=Cyber+Security;Penetration+testing;Linux;OSINT;Networking;Pyrhon" alt="Typing SVG" /></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
