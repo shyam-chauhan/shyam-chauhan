@@ -7,7 +7,6 @@ Status : "pursuing B.E. in information technology"
 ### talks about <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=OCR+A&size=25&duration=3000&pause=1000&random=false&width=435&lines=Cyber+Security;Penetration+testing;Linux;OSINT;Networking;Python" alt="Typing SVG" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shyam-chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="shyam-chauhan" /> </p>
 
 - 🌱 I’m currently learning **OSINT,VAPT,REGEX,Digital Forensics**
 
