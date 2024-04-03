@@ -3,7 +3,7 @@
 Name : "Shyam Chauhan"
 Status : "pursuing B.E. in information technology"
 🌱 Currently_learning : "OSINT, VAPT, REGEX, Digital Forensics"
-Skills Highlight : "Python, Kali Linux OS, Networking, VAPT"
+Skills_highlight : "Python, Kali Linux OS, Networking, VAPT"
 ```
 
 
