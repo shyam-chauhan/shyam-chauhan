@@ -2,8 +2,8 @@
 ```python
 Name : "Shyam Chauhan"
 Status : "pursuing B.E. in information technology"
-🌱 Currently_learning : "OSINT, VAPT, REGEX, Digital Forensics"
 Skills_highlight : "Python, Kali Linux OS, Networking, VAPT"
+🌱 Currently_learning : "OSINT, VAPT, REGEX, Digital Forensics"
 ```
 
 
