@@ -36,11 +36,6 @@ Skills_highlight : "Python, Kali Linux OS, Networking, VAPT"
 <p><a href="https://www.buymeacoffee.com/shyam_chauhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shyam_chauhan" /></a></p><br><br><br>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
 
