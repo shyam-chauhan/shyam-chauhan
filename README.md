@@ -32,7 +32,7 @@ Skills_highlight : "Python, Kali Linux OS, Networking, VAPT"
 
 
 
-<h3 align="left">Like my work ?:</h3>
+<h3 align="left">Like my work ?</h3>
 <p><a href="https://www.buymeacoffee.com/shyam_chauhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shyam_chauhan" /></a></p><br><br><br>
 
 
