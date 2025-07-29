@@ -1,7 +1,7 @@
 ## ⚡ME
 ```python
 Name : "Shyam Chauhan"
-Status : Cyber Security Engineer"
+Status : "Cyber Security Engineer"
 Skills_highlight : "Python, Kali Linux OS, Networking, VAPT"
 🌱 Currently_learning : "OSINT, VAPT, REGEX, Digital Forensics"
 ```
